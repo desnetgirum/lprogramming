@@ -1,5 +1,6 @@
 #include <stdio.h>
-/* main - prints some text
+/*
+ * main - prints some text
  * Return: always 0(success)
  */
 int main(void)
