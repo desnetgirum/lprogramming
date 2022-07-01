@@ -1,6 +1,11 @@
  #include <stdio.h>
+/*
+ *main -Entry point
+ *Return:always 0 success
 
-/* main - entry point,
+#include <string.h>
+/**
+ * main - entry point,
  *
  * Return:  0
  */
