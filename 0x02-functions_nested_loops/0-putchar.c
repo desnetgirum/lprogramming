@@ -5,6 +5,7 @@
  * *
  * *Return:return 0
  * */
+
 int main(void)
 {
 	char ch[10] = "_putchar";
